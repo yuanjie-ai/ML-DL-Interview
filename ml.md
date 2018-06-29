@@ -107,3 +107,4 @@ Blending与Stacking很类似，它们的区别可以参考这里（https://mlwav
 
 ## 各种熵/最大熵模型
 ## CRF
+## 动态规划
