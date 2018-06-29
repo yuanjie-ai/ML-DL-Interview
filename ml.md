@@ -104,3 +104,6 @@ Blending与Stacking很类似，它们的区别可以参考这里（https://mlwav
 ## residual learning所说的residual和GBDT中的residual有什么区别？
 ## FFM和FTRL有过了解吗？
 ## 你对现在Deep Learning的发展和遇到的问题有什么看法？
+
+## 各种熵/最大熵模型
+## CRF
