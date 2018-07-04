@@ -2,6 +2,10 @@
 - CRF
 - 动态规划
 - BP
-- 熵
 - LR/RF/gbdt/xgb/lgb/rgf/catboost
 - FM/FFM/FTRL
+
+- 评估指标
+  - 熵
+  - AUC
+  - KS
