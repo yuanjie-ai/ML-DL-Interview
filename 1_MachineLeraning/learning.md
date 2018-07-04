@@ -3,4 +3,5 @@
 - 动态规划
 - BP
 - 熵
-- gbdt/xgb/lgb/rgf/catboost
+- LR/RF/gbdt/xgb/lgb/rgf/catboost
+- FM/FFM/FTRL
